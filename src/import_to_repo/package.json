@@ -1,0 +1,9 @@
+{
+    "name": "import_to_repo",
+    "version": "0.0.1",
+    "description": "Importa as modificações dos templates para o repositório.",
+    "author": "JulioGold",
+    "dependencies": {
+        "fs-extra": "^7.0.0"
+    }
+}

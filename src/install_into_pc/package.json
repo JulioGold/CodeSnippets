@@ -1,0 +1,9 @@
+{
+    "name": "install_into_pc",
+    "version": "0.0.1",
+    "description": "Instala o que tem no repositório no PC.",
+    "author": "JulioGold",
+    "dependencies": {
+        "fs-extra": "^7.0.0"
+    }
+}
