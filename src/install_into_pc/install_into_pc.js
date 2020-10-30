@@ -17,6 +17,10 @@ var templates = [
         targetPath: path.join(process.env.USERPROFILE, '/Documents/Visual Studio 2017/Code Snippets/Visual C#'),
     },
     {
+        sourcePath: './../../Visual Studio 2019/Code Snippets/Visual C#',
+        targetPath: path.join(process.env.USERPROFILE, '/Documents/Visual Studio 2019/Code Snippets/Visual C#'),
+    },
+    {
         sourcePath: './../../vscode/snippets',
         targetPath: path.join(process.env.USERPROFILE, '/AppData/Roaming/Code/User/snippets'),
         isTopFolder: true

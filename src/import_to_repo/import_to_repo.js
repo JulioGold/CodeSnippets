@@ -23,6 +23,12 @@ var templates = [
         //localTemplatesStructureRead: './../../Visual Studio 2017/Code Snippets/Visual C#'
     },
     {
+        sourcePath: path.join(process.env.USERPROFILE, '/Documents/Visual Studio 2019/Code Snippets/Visual C#'),
+        targetPath: './../../Visual Studio 2019/Code Snippets/Visual C#',
+        //targetPath: './tempDestino/Visual Studio 2019/Code Snippets/Visual C#',
+        //localTemplatesStructureRead: './../../Visual Studio 2019/Code Snippets/Visual C#'
+    },
+    {
         sourcePath: path.join(process.env.USERPROFILE, '/AppData/Roaming/Code/User/snippets'),
         targetPath: './../../vscode/snippets',
         isTopFolder: true
